@@ -1,0 +1,292 @@
+#header{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #454343;
+    display: flex;
+    
+}
+#logo{
+    padding-left: 40px;
+    padding-right: 200px;
+}
+#menu ul{
+    font-family: AKbalthom SuperheroKH;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+    padding: 30px 16px;
+    
+}
+#menu li a {
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+#menu li a:hover{
+    background-color: #555;
+    color: white;
+}
+#searchbox{
+    padding-top: 20px;
+    background-color: grey;
+    background: none;
+    cursor: pointer;
+}
+#searchbox img{
+    padding-left: 290px;
+}
+#footer{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #454343;
+    text-align: center;
+    color: white;
+}
+#bannerText{
+    font-family: AKbalthom SuperheroKH;
+    position: absolute;
+    font-size: 55px;
+    
+}
+#bannerText span{
+    color: red;
+    font-size: 90px;    
+}
+#bannerText p{
+    margin-top: -120px;
+    font-size: 40px;
+    font-family: arial;
+    text-align: center;
+}
+.homePage img{
+    max-width: 100%;
+    width: 1015px;
+    height: auto;
+    padding-left: 409px;
+
+}
+h2{
+    font-family: AKbalthom SuperheroKH;
+    font-size: 55px;
+    text-align: center;
+    margin-top: -55px;
+}
+#category{
+    font-family: AKbalthom SuperheroKH;
+    font-size: 25px;
+    display: flex;
+    margin-top: -70px;
+
+}
+.carCate1{
+    text-align: center;
+    background-color: #666565;
+    border-radius: 20px;
+    margin-left: 100px;
+    padding: 0 20px;
+    
+}
+
+.carCate2{
+    text-align: center;
+    background-color: #666565;
+    border-radius: 20px;
+    margin-left: 218px;
+    padding: 0 20px;
+    margin-right: 270px;
+}
+.carCate3{
+    text-align: center;
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 0 20px;
+
+}
+#items{
+    display:inline-flex;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#items h4 {
+    font-family: AKbalthom SuperheroKH;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+#items p{
+    font-family: AKbalthom SuperheroKH;
+    font-size: 15px;
+    text-align: center;
+}
+#items p span{
+    background-color: red;
+    border-radius: 50px;
+    padding: 0 20px;
+}
+.lamborghiniImg{
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0 -30px;
+}
+.farrariImg{
+    margin: 0 115px;
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 20px;
+}
+.bugattiImg{
+    margin-left: -30px;
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 20px;
+}
+#allPersons{
+    display:inline-flex;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 80px;
+}
+#allPersons h4 {
+    font-family: AKbalthom SuperheroKH;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+#allPersons p{
+    font-family: AKbalthom SuperheroKH;
+    font-size: 15px;
+    text-align: center;
+}
+.person1{
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 85px;
+}
+.person2{
+    margin: 0 115px;
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 20px;
+}
+.person3{
+    margin-left: -30px;
+    background-color: #666565;
+    border-radius: 20px;
+    padding: 20px;
+}
+body{
+    display: inherit;
+}
+#about_us h2{
+    padding: 0;
+    margin: 0;
+    font-family: AKbalthom SuperheroKH;
+    font-size: 55px;
+    text-align: center;
+    text-decoration: underline;
+}
+#about_us p{
+    margin-left: 35px;
+    font-family: Arial;
+    font-size: 35px;
+}
+#about_us p span{
+    margin-left: 65px;
+}
+.aboutimg1{
+    text-align: center;
+    display:block;
+}
+#footerPage{
+    padding: 30px;
+    display: flex;
+}
+#footerPage .footimg{
+    text-align: left;
+    
+}
+#footerPage h1{
+    font-family: AKbalthom SuperheroKH;
+    font-size: 25px;
+    padding-left: 50px;
+}
+#footerPage ul{
+    font-family: AKbalthom SuperheroKH;
+    text-align: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding-left: 50px;
+
+}
+#footerPage li a {
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+#footerPage li a:hover{
+    background-color: #555;
+    color: white;
+}
+#contactContainer h2{
+    padding: 0;
+    margin: 0;
+    font-family: AKbalthom SuperheroKH;
+    font-size: 55px;
+    text-align: center;
+    text-decoration: underline;
+}
+#contactContainer h3{
+    font-family: AKbalthom SuperheroKH;
+    font-size: 35px;
+    text-align: center;
+}
+#contactContainer form{
+    text-align: center;
+    font-size: 30px;
+    
+}
+#personal{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 35px;
+}
+#personal p span{
+    color: red;
+}
+#blogcontainer h1{
+    padding: 0;
+    margin: 0;
+    font-family: AKbalthom SuperheroKH;
+    font-size: 55px;
+    text-align: center;
+    text-decoration: underline;
+}
+#blogcontainer p{
+    font-family: AKbalthom SuperheroKH;    
+    font-size: 35px;
+    padding-left: 35px;
+}
+#blogImg1{
+    background-color: aqua;
+    border-radius: 30px;
+    text-align: right;
+    padding: 20px;
+    display: flex;
+    margin: 20px;
+}
+#blogImgs1 p{
+    font-family: AKbalthom SuperheroKH;   
+    font-size: 15px;
+}
+
+
